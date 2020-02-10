@@ -9,7 +9,7 @@ h1 {
   text-transform: none;
   letter-spacing: 0em;
   line-height: 2.5em;
-  color: #blue;
+  text-color: blue;
 }
 
 body {
@@ -21,7 +21,7 @@ body {
   text-transform: none;
   text-align: center;
   letter-spacing: .04em;
-  text-color: #pink;
+  text-color: pink;
   background-color: green;
 }
 
