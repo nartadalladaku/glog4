@@ -11,6 +11,7 @@ h1 {
   font-weight: 500;
   font-style: normal;
   text-transform: none;
+  text-align: center;
   letter-spacing: 0em;
   line-height: 2.5em;
   color: #blue;
@@ -24,6 +25,7 @@ body {
   font-size: 18px;
   line-height: 1.4em;
   text-transform: none;
+  text-align: center;
   letter-spacing: .04em;
   color: #pink;
   background-color: black;
