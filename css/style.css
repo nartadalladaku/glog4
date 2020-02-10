@@ -2,7 +2,7 @@
   <style>
 
 body {
-  color: #black;
+  color: #pink;
 }
 
 h1 {
@@ -14,9 +14,10 @@ h1 {
   letter-spacing: 0em;
   line-height: 2.5em;
   color: #ffffff;
+  background-color: black;
 }
 
-p {
+body {
   font-family: times;
   font-weight: 400;
   font-style: normal;
@@ -25,6 +26,7 @@ p {
   text-transform: none;
   letter-spacing: .04em;
   color: #ffffff;
+  background-color: black;
 }
 
     </style>
