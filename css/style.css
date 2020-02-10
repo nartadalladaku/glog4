@@ -2,11 +2,11 @@
   <style>
 
 body {
-  background-color: #282828;
+  color: #black;
 }
 
 h1 {
-  font-family: proxima-nova;
+  font-family: arial;
   font-size: 75px;
   font-weight: 500;
   font-style: normal;
@@ -17,7 +17,7 @@ h1 {
 }
 
 p {
-  font-family: linotype-didot;
+  font-family: times;
   font-weight: 400;
   font-style: normal;
   font-size: 18px;
