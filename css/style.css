@@ -1,30 +1,31 @@
 <head>
   <style>
 
- h1 {
-   text-display: inline-block;
-   color: blue;
-   text-align: center;
-   font-size: 75px;
-   margin-top: 60px;
-   margin-bottom: 60px;
-   margin-left: 60px;
-   margin-right: 60px;
-   font-weight: normal;
-}
-
 body {
-  background-color: lightblue;
+  background-color: #282828;
 }
 
 h1 {
-  color: white;
-  text-align: center;
+  font-family: proxima-nova;
+  font-size: 75px;
+  font-weight: 500;
+  font-style: normal;
+  text-transform: none;
+  letter-spacing: 0em;
+  line-height: 2.5em;
+  color: #ffffff;
 }
 
 p {
-  font-family: proxima-nova;
-  font-size: 20px;
+  font-family: linotype-didot;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 1.4em;
+  text-transform: none;
+  letter-spacing: .04em;
+  color: #ffffff;
 }
+
     </style>
 </head>
