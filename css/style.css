@@ -1,10 +1,6 @@
 <head>
   <style>
 
-body {
-  color: #red;
-}
-
 h1 {
   font-family: arial;
   font-size: 75px;
@@ -14,7 +10,6 @@ h1 {
   letter-spacing: 0em;
   line-height: 2.5em;
   color: #blue;
-  background-color: yellow;
 }
 
 body {
@@ -24,6 +19,7 @@ body {
   font-size: 18px;
   line-height: 1.4em;
   text-transform: none;
+  text-align: center;
   letter-spacing: .04em;
   color: #pink;
   background-color: green;
