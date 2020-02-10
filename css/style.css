@@ -7,12 +7,13 @@ h1 {
   font-weight: 500;
   font-style: normal;
   text-transform: none;
+  text-align: center;
   letter-spacing: 0em;
-  line-height: 2.5em;
-  text-color: blue;
-}
+  line-height: 1.5em;
+  color: white;
+  }
 
-body {
+p {
   font-family: times;
   font-weight: 400;
   font-style: normal;
@@ -21,9 +22,12 @@ body {
   text-transform: none;
   text-align: center;
   letter-spacing: .04em;
-  text-color: pink;
-  background-color: green;
-}
+  color: white;
+  }
+
+body {
+  background-color: black;
+  }
 
     </style>
 </head>
