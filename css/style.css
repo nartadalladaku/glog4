@@ -1,9 +1,34 @@
-<body>
-  <style>
-
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 h1 {
-  font-family: arial;
   font-size: 75px;
+  font-family: arial;
+  font-weight: 500;
+  font-style: normal;
+  text-transform: none;
+  text-align: center;
+  letter-spacing: 0em;
+  line-height: 1.5em;
+  color: pink;
+}
+
+h2 {
+  font-size: 50px;
+  font-family: arial;
+  font-weight: 500;
+  font-style: normal;
+  text-transform: none;
+  text-align: center;
+  letter-spacing: 0em;
+  line-height: 1.5em;
+  color: blue;
+ }
+
+p {
+  font-size: 25px;
+  font-family: times;
   font-weight: 500;
   font-style: normal;
   text-transform: none;
@@ -11,23 +36,19 @@ h1 {
   letter-spacing: 0em;
   line-height: 1.5em;
   color: white;
-  }
+}
+</style>
+</head>
+<body>
 
-p {
-  font-family: times;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 18px;
-  line-height: 1.4em;
-  text-transform: none;
-  text-align: center;
-  letter-spacing: .04em;
-  color: white;
-  }
-
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<p>This is a paragraph.</p>
+<p>Specifying the font-size in em allows all major browsers to resize the text.
+Unfortunately, there is still a problem with older versions of IE. When resizing the text, it becomes larger/smaller than it should.</p>
 body {
   background-color: black;
   }
 
-    </style>
 </body>
+</html>
